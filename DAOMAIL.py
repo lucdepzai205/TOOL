@@ -180,7 +180,7 @@ def logo():
                       \033[1;34m[Thông Báo]
 \033[1;36m[⟨⟩]➩ \033[1;34mTOOL ĐANG TRONG QUÁ TRÌNH UPDATE THÊM   
 \033[1;33m==========================================================
-                 \033[1;35mTOOL \033[1;32mGETUID \033[1;39mFACBOOK
+                 \033[1;35mTOOL \033[1;32mĐÀO \033[1;39mMAIL
 """
  for pr in logo:sys.stdout.write(pr);sys.stdout.flush();time.sleep(0.001)
 
