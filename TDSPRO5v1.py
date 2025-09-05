@@ -224,7 +224,7 @@ def banner():
 \033[1;34m[Thông Báo]
 \033[1;36m[⟨⟩] TOOL ĐANG TRONG QUÁ TRÌNH UPDATE THÊM
 \033[1;36m=========================================================
-\033[1;35mTOOL \033[1;32mAUTO \033[1;39mGOLIKE IG
+\033[1;35mTOOL \033[1;32mTDS \033[1;39mPRO5
 """
     print(banner_text, flush=True)  # in ngay, chắc chắn hiển thị
 
