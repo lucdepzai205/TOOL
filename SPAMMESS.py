@@ -23,7 +23,7 @@ def banner():
                       \033[1;34m[Thông Báo]
 \033[1;36m[⟨⟩]➩ \033[1;34mTOOL ĐANG TRONG QUÁ TRÌNH UPDATE THÊM   
 \033[1;33m==========================================================
-                 \033[1;35mTOOL \033[1;32mAUTO \033[1;39mGOLIKE IG
+                 \033[1;35mTOOL \033[1;32mAUTO \033[1;39mSPAMMESS
 """
  print(banner_text, flush=True)
 banner()  # Gọi ngay
